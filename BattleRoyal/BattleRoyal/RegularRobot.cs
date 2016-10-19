@@ -8,5 +8,9 @@ namespace BattleRoyal
 {
     class RegularRobot : Robot
     {
+        public RegularRobot()
+        {
+            type = 0;
+        }
     }
 }

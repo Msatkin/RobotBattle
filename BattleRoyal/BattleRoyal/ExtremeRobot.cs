@@ -8,5 +8,9 @@ namespace BattleRoyal
 {
     class ExtremeRobot : Robot
     {
+        public ExtremeRobot()
+        {
+            type = 2;
+        }
     }
 }
