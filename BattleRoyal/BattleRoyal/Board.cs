@@ -8,6 +8,8 @@ namespace BattleRoyal
 {
     class Board
     {
+        
+
         public Board()
         {
         }
